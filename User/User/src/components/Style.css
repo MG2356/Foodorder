@@ -1,0 +1,164 @@
+/* .nav-bar{
+    background-color: ;
+} */
+
+.logo {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #666;
+  }
+  
+ .logo i {
+    padding-right: .5rem;
+    color: rgb(32, 32, 32);
+  }
+  
+  .nav-main {
+    /* width: 100%; */
+    /* border: 2px solid black; */
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px #ffff;
+    
+}
+  
+  #navbar-right {
+    display: flex;
+    /* width: 100%; */
+    /* border: 2px solid red; */
+  }
+  
+  #navbar-right NavLink  {
+    font-size: 2rem;
+    margin-left: 6rem;
+    padding-right: 1rem;
+    color: black;
+    /* width: 100%; */
+  }
+  #nav-list{
+    color: #000;
+  }
+  #navbar-right NavLink:hover {
+    color: rgb(5, 5, 5);
+  }
+  
+  #menu-bar {
+    font-size: 3rem;
+    cursor: pointer;
+    color: #666;
+    border: .1rem solid #666;
+    border-radius: .3rem;
+    padding: .5rem 1.5rem;
+    display: none;
+  }
+  
+  .navbar-reg {
+  
+    background-color: #df5f2261;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    -webkit-box-pack: justify;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px auto;
+    padding: 10px 2%;
+    max-width: 90rem;
+    z-index: 5;
+    box-shadow: 0px 0px 10px #780a0a;
+  }
+  
+  .logo-reg {
+    width: 70px;
+  }
+  /* Footer */
+  .footer{
+    margin-left: auto;
+    background: #24262b;
+    padding: 70px 0;
+    
+}
+.footer-col{
+    width: 25%;
+    height: 140px;
+    padding: 0 10px;
+    
+}
+.footer-col h4{
+    cursor: default;
+    font-size: 13.5pt;
+    font-weight: normal;
+    color: orangered;
+    padding-bottom: 10px;
+
+}
+
+.footer-col ul a
+{
+    font-size:25px;
+    color:orangered;
+}
+.footer-col ul i{
+    font-size:35px;
+    color:orangered;
+}
+.footer-col ul span{
+    cursor:pointer;
+    font-size:35px;
+    font-weight:bold;
+    color:white;
+}
+.footer-col ul span:hover{
+    color:orangered;
+}
+.map ul a{
+    margin-left: 10px;
+    font-size: 15px;
+    color:white;
+}
+.footer-col .mail ul i{
+    padding-top: 20px;
+    
+    font-size:25px;
+}
+.footer-col .mail span{
+    
+    padding-left: 15px;;
+    font-size: 13px;
+    font-weight: normal;
+}
+.footer-col .map ul i{
+    padding-top:30px;
+    font-size: 25px;
+}
+.footer-col .map span{
+    font-weight: normal;
+    font-size:13px;
+    margin-left: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    color:white;
+    
+}
+.footer-col ul li a{
+    line-height: 1.6;
+    font-size:11pt;
+    text-decoration: none;
+    color:white;
+    
+}
+.footer-col ul li a:hover{
+    color:orangered;
+}
+.footer .social-links a,
+.footer .social-links i{
+    margin-left: 0.5rem;
+    text-align: center;
+    font-size: 2.4rem;
+    height: 35px;
+    width: 45px;
+    color:white;
+    border-radius:50%;
+    
+}
+
