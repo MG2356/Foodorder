@@ -1,2 +1,2 @@
 # Foodorder
-deployed link :  https://mgfood.netlify.app/
+Live Deployed Link For user - > https://mgfood.netlify.app/ For Admin -> https://foodadmins.netlify.app/
